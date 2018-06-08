@@ -9,7 +9,16 @@ Then in the design area, select 1 textarea , 3 checkbox and 3 buttons.
 DEPENDENCIES: 
 
         1) JTattoo-1.6.11.jar
+        
+        
+        Download JTattoo from this link: 
+        http://www.jtattoo.net/Download.html
+        
         2) Download freetts zip file and unzip freetts file.
+        
+        Download freetts from this link: 
+        https://freetts.sourceforge.io/
+        
         3) Upload those jar files to the libraries of the project.
         4) You must need to have this to be imported: 
                     
