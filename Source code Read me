@@ -1,0 +1,15 @@
+Follow the source code. and import this files: 
+
+
+
+package Java_Text_To_Speech;
+import java.awt.Color;
+import com.sun.speech.freetts.Voice;
+import com.sun.speech.freetts.VoiceManager;
+import com.sun.speech.freetts.audio.JavaClipAudioPlayer;
+import javax.swing.JFrame;
+
+import javax.swing.UIManager;
+import javax.swing.UIManager.LookAndFeelInfo;
+import javax.swing.UnsupportedLookAndFeelException;
+import javax.swing.JOptionPane;
